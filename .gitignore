@@ -1,0 +1,6 @@
+.idea
+*.iml
+*xml
+/out
+
+#you don't need to put '.' for folders
